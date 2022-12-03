@@ -1,0 +1,5 @@
+list_task.c:16:6:task_1	8	static
+list_task.c:21:6:task_2	8	static
+list_task.c:26:6:task_3	8	static
+list_task.c:31:6:task_4	8	static
+list_task.c:36:6:task_5	8	static
